@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/01 13:44:17.676.pas,C:\Users\Arya\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Arya\Documents\RAD Studio\Projects\tugas.pas</Transaction>
+    <Transaction>2019/12/01 13:44:17.676.dfm,C:\Users\Arya\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Arya\Documents\RAD Studio\Projects\tugas.dfm</Transaction>
+    <Transaction>2019/12/01 13:49:53.648.dproj,C:\Users\Arya\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Arya\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
